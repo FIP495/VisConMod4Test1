@@ -1,10 +1,10 @@
 Crimson
-Orange
+Gray
 Blue
 Cyan
 Yellow
 Charcoal
-Khaki
+Magenta
 Coral
 Silver
 Fuchsia
